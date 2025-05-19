@@ -1,0 +1,1 @@
+cobc -x -conf="C:\Users\MDEBRAY\dev\gnucobol\config\default.conf" hello.cob
